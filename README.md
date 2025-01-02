@@ -10,7 +10,7 @@ This project aims to predict human emotions using machine learning models. It le
 
 Below is a preview of the application interface or model output:
 
-![Emotion Prediction Screenshot](assets/Screenshot-2025-01-02-202346.png)
+![Emotion Prediction Screenshot](Screenshot%202025-01-02%20202346.png)
 
 ## The link of the app : https://zpetctj7vajyvad4gtkvut.streamlit.app/
 
